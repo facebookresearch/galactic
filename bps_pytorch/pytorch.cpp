@@ -1,4 +1,9 @@
-// copied from https://github.com/shacklettbp/bps-nav/blob/master/simulator/pytorch.cpp
+// Copyright (c) Meta, Inc. and its affiliates.
+// The modifications of this code are licensed under the CC BY-NC-SA 4.0 license found in the
+// LICENSE file in the root directory of this source tree.
+
+// The original code was copied from https://github.com/shacklettbp/bps-nav/blob/master/simulator/pytorch.cpp
+// which is licensed under the MIT license.
 
 #include <ATen/ATen.h>
 #include <ATen/cuda/CUDAContext.h>
