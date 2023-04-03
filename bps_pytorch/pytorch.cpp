@@ -1,4 +1,4 @@
-// Copyright (c) Meta, Inc. and its affiliates.
+// Copyright (c) Meta Platforms, Inc. and affiliates.
 // The modifications of this code are licensed under the CC BY-NC-SA 4.0 license found in the
 // LICENSE file in the root directory of this source tree.
 
