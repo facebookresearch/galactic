@@ -1,0 +1,736 @@
+{
+    "mapping": {
+        "meshMappings": [
+            {
+                "name": "007_tuna_fish_can",
+                "meshIdx": 145,
+                "mtrlIdx": 137
+            },
+            {
+                "name": "008_pudding_box",
+                "meshIdx": 144,
+                "mtrlIdx": 136
+            },
+            {
+                "name": "009_gelatin_box",
+                "meshIdx": 143,
+                "mtrlIdx": 135
+            },
+            {
+                "name": "005_tomato_soup_can",
+                "meshIdx": 142,
+                "mtrlIdx": 134
+            },
+            {
+                "name": "004_sugar_box",
+                "meshIdx": 141,
+                "mtrlIdx": 133
+            },
+            {
+                "name": "002_master_chef_can",
+                "meshIdx": 140,
+                "mtrlIdx": 132
+            },
+            {
+                "name": "010_potted_meat_can",
+                "meshIdx": 139,
+                "mtrlIdx": 131
+            },
+            {
+                "name": "003_cracker_box",
+                "meshIdx": 138,
+                "mtrlIdx": 130
+            },
+            {
+                "name": "024_bowl",
+                "meshIdx": 137,
+                "mtrlIdx": 129
+            },
+            {
+                "name": "Baked_sc0_staging_18",
+                "meshIdx": 136,
+                "mtrlIdx": 128
+            },
+            {
+                "name": "Baked_sc1_staging_20",
+                "meshIdx": 135,
+                "mtrlIdx": 127
+            },
+            {
+                "name": "Baked_sc1_staging_08",
+                "meshIdx": 134,
+                "mtrlIdx": 126
+            },
+            {
+                "name": "Baked_sc1_staging_09",
+                "meshIdx": 133,
+                "mtrlIdx": 125
+            },
+            {
+                "name": "Baked_sc0_staging_19",
+                "meshIdx": 132,
+                "mtrlIdx": 124
+            },
+            {
+                "name": "Baked_sc0_staging_09",
+                "meshIdx": 131,
+                "mtrlIdx": 123
+            },
+            {
+                "name": "Baked_sc1_staging_19",
+                "meshIdx": 130,
+                "mtrlIdx": 122
+            },
+            {
+                "name": "Baked_sc1_staging_18",
+                "meshIdx": 129,
+                "mtrlIdx": 121
+            },
+            {
+                "name": "Baked_sc0_staging_08",
+                "meshIdx": 128,
+                "mtrlIdx": 120
+            },
+            {
+                "name": "Baked_sc0_staging_20",
+                "meshIdx": 127,
+                "mtrlIdx": 119
+            },
+            {
+                "name": "Baked_sc3_staging_19",
+                "meshIdx": 126,
+                "mtrlIdx": 118
+            },
+            {
+                "name": "Baked_sc2_staging_09",
+                "meshIdx": 125,
+                "mtrlIdx": 117
+            },
+            {
+                "name": "Baked_sc2_staging_08",
+                "meshIdx": 124,
+                "mtrlIdx": 116
+            },
+            {
+                "name": "Baked_sc2_staging_20",
+                "meshIdx": 123,
+                "mtrlIdx": 115
+            },
+            {
+                "name": "Baked_sc3_staging_18",
+                "meshIdx": 122,
+                "mtrlIdx": 114
+            },
+            {
+                "name": "Baked_sc3_staging_20",
+                "meshIdx": 121,
+                "mtrlIdx": 113
+            },
+            {
+                "name": "Baked_sc3_staging_08",
+                "meshIdx": 120,
+                "mtrlIdx": 112
+            },
+            {
+                "name": "Baked_sc2_staging_18",
+                "meshIdx": 119,
+                "mtrlIdx": 111
+            },
+            {
+                "name": "Baked_sc2_staging_19",
+                "meshIdx": 118,
+                "mtrlIdx": 110
+            },
+            {
+                "name": "Baked_sc3_staging_09",
+                "meshIdx": 117,
+                "mtrlIdx": 109
+            },
+            {
+                "name": "Baked_sc3_staging_10",
+                "meshIdx": 116,
+                "mtrlIdx": 108
+            },
+            {
+                "name": "Baked_sc3_staging_04",
+                "meshIdx": 115,
+                "mtrlIdx": 107
+            },
+            {
+                "name": "Baked_sc2_staging_00",
+                "meshIdx": 114,
+                "mtrlIdx": 106
+            },
+            {
+                "name": "Baked_sc2_staging_14",
+                "meshIdx": 113,
+                "mtrlIdx": 105
+            },
+            {
+                "name": "Baked_sc2_staging_15",
+                "meshIdx": 112,
+                "mtrlIdx": 104
+            },
+            {
+                "name": "Baked_sc2_staging_01",
+                "meshIdx": 111,
+                "mtrlIdx": 103
+            },
+            {
+                "name": "Baked_sc3_staging_05",
+                "meshIdx": 110,
+                "mtrlIdx": 102
+            },
+            {
+                "name": "Baked_sc3_staging_11",
+                "meshIdx": 109,
+                "mtrlIdx": 101
+            },
+            {
+                "name": "Baked_sc3_staging_07",
+                "meshIdx": 108,
+                "mtrlIdx": 100
+            },
+            {
+                "name": "Baked_sc3_staging_13",
+                "meshIdx": 107,
+                "mtrlIdx": 99
+            },
+            {
+                "name": "Baked_sc2_staging_17",
+                "meshIdx": 106,
+                "mtrlIdx": 98
+            },
+            {
+                "name": "Baked_sc2_staging_03",
+                "meshIdx": 105,
+                "mtrlIdx": 97
+            },
+            {
+                "name": "Baked_sc2_staging_02",
+                "meshIdx": 104,
+                "mtrlIdx": 96
+            },
+            {
+                "name": "Baked_sc2_staging_16",
+                "meshIdx": 103,
+                "mtrlIdx": 95
+            },
+            {
+                "name": "Baked_sc3_staging_12",
+                "meshIdx": 102,
+                "mtrlIdx": 94
+            },
+            {
+                "name": "Baked_sc3_staging_06",
+                "meshIdx": 101,
+                "mtrlIdx": 93
+            },
+            {
+                "name": "Baked_sc3_staging_02",
+                "meshIdx": 100,
+                "mtrlIdx": 92
+            },
+            {
+                "name": "Baked_sc3_staging_16",
+                "meshIdx": 99,
+                "mtrlIdx": 91
+            },
+            {
+                "name": "Baked_sc2_staging_12",
+                "meshIdx": 98,
+                "mtrlIdx": 90
+            },
+            {
+                "name": "Baked_sc2_staging_06",
+                "meshIdx": 97,
+                "mtrlIdx": 89
+            },
+            {
+                "name": "Baked_sc2_staging_07",
+                "meshIdx": 96,
+                "mtrlIdx": 88
+            },
+            {
+                "name": "Baked_sc2_staging_13",
+                "meshIdx": 95,
+                "mtrlIdx": 87
+            },
+            {
+                "name": "Baked_sc3_staging_17",
+                "meshIdx": 94,
+                "mtrlIdx": 86
+            },
+            {
+                "name": "Baked_sc3_staging_03",
+                "meshIdx": 93,
+                "mtrlIdx": 85
+            },
+            {
+                "name": "Baked_sc3_staging_15",
+                "meshIdx": 92,
+                "mtrlIdx": 84
+            },
+            {
+                "name": "Baked_sc3_staging_01",
+                "meshIdx": 91,
+                "mtrlIdx": 83
+            },
+            {
+                "name": "Baked_sc2_staging_05",
+                "meshIdx": 90,
+                "mtrlIdx": 82
+            },
+            {
+                "name": "Baked_sc2_staging_11",
+                "meshIdx": 89,
+                "mtrlIdx": 81
+            },
+            {
+                "name": "Baked_sc2_staging_10",
+                "meshIdx": 88,
+                "mtrlIdx": 80
+            },
+            {
+                "name": "Baked_sc2_staging_04",
+                "meshIdx": 87,
+                "mtrlIdx": 79
+            },
+            {
+                "name": "Baked_sc3_staging_00",
+                "meshIdx": 86,
+                "mtrlIdx": 78
+            },
+            {
+                "name": "Baked_sc3_staging_14",
+                "meshIdx": 85,
+                "mtrlIdx": 77
+            },
+            {
+                "name": "Baked_sc0_staging_11",
+                "meshIdx": 84,
+                "mtrlIdx": 76
+            },
+            {
+                "name": "Baked_sc0_staging_05",
+                "meshIdx": 83,
+                "mtrlIdx": 75
+            },
+            {
+                "name": "Baked_sc1_staging_01",
+                "meshIdx": 82,
+                "mtrlIdx": 74
+            },
+            {
+                "name": "Baked_sc1_staging_15",
+                "meshIdx": 81,
+                "mtrlIdx": 73
+            },
+            {
+                "name": "Baked_sc1_staging_14",
+                "meshIdx": 80,
+                "mtrlIdx": 72
+            },
+            {
+                "name": "Baked_sc1_staging_00",
+                "meshIdx": 79,
+                "mtrlIdx": 71
+            },
+            {
+                "name": "Baked_sc0_staging_04",
+                "meshIdx": 78,
+                "mtrlIdx": 70
+            },
+            {
+                "name": "Baked_sc0_staging_10",
+                "meshIdx": 77,
+                "mtrlIdx": 69
+            },
+            {
+                "name": "Baked_sc0_staging_06",
+                "meshIdx": 76,
+                "mtrlIdx": 68
+            },
+            {
+                "name": "Baked_sc0_staging_12",
+                "meshIdx": 75,
+                "mtrlIdx": 67
+            },
+            {
+                "name": "Baked_sc1_staging_16",
+                "meshIdx": 74,
+                "mtrlIdx": 66
+            },
+            {
+                "name": "Baked_sc1_staging_02",
+                "meshIdx": 73,
+                "mtrlIdx": 65
+            },
+            {
+                "name": "Baked_sc1_staging_03",
+                "meshIdx": 72,
+                "mtrlIdx": 64
+            },
+            {
+                "name": "Baked_sc1_staging_17",
+                "meshIdx": 71,
+                "mtrlIdx": 63
+            },
+            {
+                "name": "Baked_sc0_staging_13",
+                "meshIdx": 70,
+                "mtrlIdx": 62
+            },
+            {
+                "name": "Baked_sc0_staging_07",
+                "meshIdx": 69,
+                "mtrlIdx": 61
+            },
+            {
+                "name": "Baked_sc0_staging_03",
+                "meshIdx": 68,
+                "mtrlIdx": 60
+            },
+            {
+                "name": "Baked_sc0_staging_17",
+                "meshIdx": 67,
+                "mtrlIdx": 59
+            },
+            {
+                "name": "Baked_sc1_staging_13",
+                "meshIdx": 66,
+                "mtrlIdx": 58
+            },
+            {
+                "name": "Baked_sc1_staging_07",
+                "meshIdx": 65,
+                "mtrlIdx": 57
+            },
+            {
+                "name": "Baked_sc1_staging_06",
+                "meshIdx": 64,
+                "mtrlIdx": 56
+            },
+            {
+                "name": "Baked_sc1_staging_12",
+                "meshIdx": 63,
+                "mtrlIdx": 55
+            },
+            {
+                "name": "Baked_sc0_staging_16",
+                "meshIdx": 62,
+                "mtrlIdx": 54
+            },
+            {
+                "name": "Baked_sc0_staging_02",
+                "meshIdx": 61,
+                "mtrlIdx": 53
+            },
+            {
+                "name": "Baked_sc0_staging_14",
+                "meshIdx": 60,
+                "mtrlIdx": 52
+            },
+            {
+                "name": "Baked_sc0_staging_00",
+                "meshIdx": 59,
+                "mtrlIdx": 51
+            },
+            {
+                "name": "Baked_sc1_staging_04",
+                "meshIdx": 58,
+                "mtrlIdx": 50
+            },
+            {
+                "name": "Baked_sc1_staging_10",
+                "meshIdx": 57,
+                "mtrlIdx": 49
+            },
+            {
+                "name": "Baked_sc1_staging_11",
+                "meshIdx": 56,
+                "mtrlIdx": 48
+            },
+            {
+                "name": "Baked_sc1_staging_05",
+                "meshIdx": 55,
+                "mtrlIdx": 47
+            },
+            {
+                "name": "Baked_sc0_staging_01",
+                "meshIdx": 54,
+                "mtrlIdx": 46
+            },
+            {
+                "name": "Baked_sc0_staging_15",
+                "meshIdx": 53,
+                "mtrlIdx": 45
+            },
+            {
+                "name": "cube_pink_wireframe",
+                "meshIdx": 52,
+                "mtrlIdx": 44
+            },
+            {
+                "name": "cube_blue_wireframe",
+                "meshIdx": 51,
+                "mtrlIdx": 43
+            },
+            {
+                "name": "cube_orange_wireframe",
+                "meshIdx": 50,
+                "mtrlIdx": 42
+            },
+            {
+                "name": "cube_green_wireframe",
+                "meshIdx": 49,
+                "mtrlIdx": 41
+            },
+            {
+                "name": "cube_pink",
+                "meshIdx": 48,
+                "mtrlIdx": 40
+            },
+            {
+                "name": "cube_blue",
+                "meshIdx": 47,
+                "mtrlIdx": 39
+            },
+            {
+                "name": "cube_orange",
+                "meshIdx": 46,
+                "mtrlIdx": 38
+            },
+            {
+                "name": "cube_green",
+                "meshIdx": 45,
+                "mtrlIdx": 37
+            },
+            {
+                "name": "cube_gray_shaded",
+                "meshIdx": 44,
+                "mtrlIdx": 36
+            },
+            {
+                "name": "sphere_pink_wireframe",
+                "meshIdx": 43,
+                "mtrlIdx": 35
+            },
+            {
+                "name": "sphere_blue_wireframe",
+                "meshIdx": 42,
+                "mtrlIdx": 34
+            },
+            {
+                "name": "sphere_orange_wireframe",
+                "meshIdx": 41,
+                "mtrlIdx": 33
+            },
+            {
+                "name": "sphere_green_wireframe",
+                "meshIdx": 40,
+                "mtrlIdx": 32
+            },
+            {
+                "name": "estop_link",
+                "meshIdx": 39,
+                "mtrlIdx": 31
+            },
+            {
+                "name": "torso_lift_link",
+                "meshIdx": 38,
+                "mtrlIdx": 23
+            },
+            {
+                "name": "laser_link",
+                "meshIdx": 37,
+                "mtrlIdx": 30
+            },
+            {
+                "name": "bellows_link",
+                "meshIdx": 36,
+                "mtrlIdx": 29
+            },
+            {
+                "name": "l_gripper_finger_link",
+                "meshIdx": 35,
+                "mtrlIdx": 28
+            },
+            {
+                "name": "r_gripper_finger_link",
+                "meshIdx": 34,
+                "mtrlIdx": 28
+            },
+            {
+                "name": "l_wheel_link",
+                "meshIdx": 33,
+                "mtrlIdx": 27
+            },
+            {
+                "name": "r_wheel_link",
+                "meshIdx": 32,
+                "mtrlIdx": 27
+            },
+            {
+                "name": "wrist_roll_link",
+                "meshIdx": 31,
+                "mtrlIdx": 23
+            },
+            {
+                "name": "wrist_flex_link",
+                "meshIdx": 30,
+                "mtrlIdx": 21
+            },
+            {
+                "name": "upperarm_roll_link",
+                "meshIdx": 29,
+                "mtrlIdx": 23
+            },
+            {
+                "name": "torso_fixed_link",
+                "meshIdx": 28,
+                "mtrlIdx": 21
+            },
+            {
+                "name": "shoulder_pan_link",
+                "meshIdx": 27,
+                "mtrlIdx": 26
+            },
+            {
+                "name": "shoulder_lift_link",
+                "meshIdx": 26,
+                "mtrlIdx": 25
+            },
+            {
+                "name": "head_tilt_link",
+                "meshIdx": 25,
+                "mtrlIdx": 21
+            },
+            {
+                "name": "head_pan_link",
+                "meshIdx": 24,
+                "mtrlIdx": 24
+            },
+            {
+                "name": "forearm_roll_link",
+                "meshIdx": 23,
+                "mtrlIdx": 23
+            },
+            {
+                "name": "gripper_link",
+                "meshIdx": 22,
+                "mtrlIdx": 22
+            },
+            {
+                "name": "elbow_flex_link",
+                "meshIdx": 21,
+                "mtrlIdx": 21
+            },
+            {
+                "name": "base_link",
+                "meshIdx": 20,
+                "mtrlIdx": 20
+            },
+            {
+                "name": "chestOfDrawers_DrawerTop",
+                "meshIdx": 19,
+                "mtrlIdx": 19
+            },
+            {
+                "name": "chestOfDrawers_DrawerMid",
+                "meshIdx": 18,
+                "mtrlIdx": 18
+            },
+            {
+                "name": "chestOfDrawers_DrawerBot",
+                "meshIdx": 17,
+                "mtrlIdx": 17
+            },
+            {
+                "name": "chestOfDrawers_base",
+                "meshIdx": 16,
+                "mtrlIdx": 16
+            },
+            {
+                "name": "door",
+                "meshIdx": 15,
+                "mtrlIdx": 15
+            },
+            {
+                "name": "cabinet",
+                "meshIdx": 14,
+                "mtrlIdx": 14
+            },
+            {
+                "name": "door2",
+                "meshIdx": 13,
+                "mtrlIdx": 13
+            },
+            {
+                "name": "kitchencupboard_doorWindow_R",
+                "meshIdx": 12,
+                "mtrlIdx": 12
+            },
+            {
+                "name": "kitchencupboard_doorWindow_L",
+                "meshIdx": 11,
+                "mtrlIdx": 11
+            },
+            {
+                "name": "kitchencupboard_doorWhole_R",
+                "meshIdx": 10,
+                "mtrlIdx": 10
+            },
+            {
+                "name": "kitchencupboard_doorWhole_L",
+                "meshIdx": 9,
+                "mtrlIdx": 9
+            },
+            {
+                "name": "kitchencupboard_base",
+                "meshIdx": 8,
+                "mtrlIdx": 8
+            },
+            {
+                "name": "drawer4",
+                "meshIdx": 7,
+                "mtrlIdx": 7
+            },
+            {
+                "name": "drawer3",
+                "meshIdx": 6,
+                "mtrlIdx": 6
+            },
+            {
+                "name": "drawer2",
+                "meshIdx": 5,
+                "mtrlIdx": 5
+            },
+            {
+                "name": "drawer1",
+                "meshIdx": 4,
+                "mtrlIdx": 4
+            },
+            {
+                "name": "kitchen_counter",
+                "meshIdx": 3,
+                "mtrlIdx": 3
+            },
+            {
+                "name": "top_door_brighter2",
+                "meshIdx": 2,
+                "mtrlIdx": 2
+            },
+            {
+                "name": "bottom_door_brighter2",
+                "meshIdx": 1,
+                "mtrlIdx": 1
+            },
+            {
+                "name": "body_brighter2",
+                "meshIdx": 0,
+                "mtrlIdx": 0
+            }
+        ]
+    }
+}

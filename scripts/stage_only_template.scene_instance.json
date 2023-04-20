@@ -1,0 +1,18 @@
+{
+  "stage_instance": {
+    "template_name": "{stage_name}",
+    "translation": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "rotation": [
+      1.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "translation_origin": "COM"
+  },
+  "default_lighting": "no_lights"
+}

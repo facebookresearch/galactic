@@ -1,0 +1,28 @@
+These assets represent derivative work of the following authors and are bound by the CC BY-NC-SA 4.0 license (https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode).
+
+1. Fetch Robot meshes
+Authors:
+Fetch Robotics: https://github.com/fetchrobotics
+Adapted from: 
+https://github.com/fetchrobotics/fetch_ros 
+branch melodic_devel
+June 2021
+commit: 9c38de60834e6e51e676a302337e9ca56436e94f
+
+Adaptations include:
+- optimized meshes for bps3D renderer, compressed textures
+
+2. ReplicaCAD with baked lighting
+https://aihabitat.org/datasets/replica_cad/
+v1.5
+https://github.com/facebookresearch/habitat-sim/blob/9faf355d78ce69e273d64be5dd6fcff7c9ff1700/habitat_sim/utils/datasets_download.py#L103
+
+Adaptations include:
+- optimized meshes for bps3D renderer, compressed textures
+
+
+3. YCB objects
+https://www.ycbbenchmarks.com/
+
+Adaptations include:
+- simplified meshes, optimized meshes for bps3D renderer, compressed textures
