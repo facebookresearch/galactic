@@ -158,3 +158,16 @@ In this case, one solution is:
 ```
 conda install protobuf
 ```
+
+## Citation
+
+Please cite:
+
+```bibtex
+@inproceedings{galactic,
+  author={Vincent-Pierre Berges and Andrew Szot and Devendra Singh Chaplot and Aaron Gokaslan and Roozbeh Mottaghi and Dhruv Batra and Eric Undersander},
+  title={Galactic: Scaling End-to-End Reinforcement Learning for Rearrangement at 100k Steps-Per-Second},
+  booktitle={CVPR},
+  year={2023},
+}
+```
