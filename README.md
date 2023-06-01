@@ -2,7 +2,7 @@
 
 # Overview
 Galactic is a large-scale simulation and reinforcement-learning (RL) framework for robotic mobile manipulation in indoor environments.
-* todo: link to paper
+* [The Galactic Paper](https://openaccess.thecvf.com/content/CVPR2023/html/Berges_Galactic_Scaling_End-to-End_Reinforcement_Learning_for_Rearrangement_at_100k_Steps-per-Second_CVPR_2023_paper.html)
 
 Some feature highlights:
 * Galactic training is fast! Over **100,000 samples/second** (simulation+rendering+RL) on an 8-GPU node.
